@@ -1,0 +1,30 @@
+Il plusieurs méthodes simples pour la quantification de couleur en traitement d'image informatique.
+
+Voici quelques-unes d'entre elles :
+
+Quantification uniforme : cette méthode consiste à diviser l'espace de couleur en un certain nombre de niveaux uniformément 
+répartis. Chaque pixel est ensuite assigné à la valeur de niveau la plus proche. Cette méthode est simple et rapide, mais 
+elle peut entraîner une perte de détails dans les zones de transition.
+
+Quantification optimale : cette méthode utilise des algorithmes pour déterminer les niveaux de quantification optimaux pour chaque canal
+ de couleur. Elle permet de conserver plus de détails que la méthode de quantification uniforme, mais elle est plus complexe et plus 
+ lente.
+
+Quantification par seuillage : cette méthode consiste à définir des seuils pour chaque canal de couleur et à assigner chaque pixel à la 
+valeur de seuil la plus proche. Cette méthode est simple et rapide, mais elle peut entraîner une perte de détails dans les zones de transition.
+
+Voici quelques liens vers des documentations qui pourraient vous aider à en savoir plus sur la quantification de couleur en traitement 
+d'image :
+
+"Digital Image Processing" de Rafael C. Gonzalez et Richard E. Woods : ce livre est une référence en traitement d'image et contient un 
+chapitre sur la quantification de couleur.
+
+"Image Processing Toolbox" de MATLAB : cette boîte à outils contient des fonctions pour la quantification de couleur, ainsi que des 
+exemples et des tutoriels.
+
+"OpenCV" : cette bibliothèque de traitement d'image open source contient des fonctions pour la quantification de couleur, ainsi que 
+des exemples et des tutoriels.
+
+
+
+faire le noir dans la palette
